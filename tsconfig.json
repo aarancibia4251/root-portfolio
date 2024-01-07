@@ -1,0 +1,6 @@
+{
+  "extends": "ts-config-single-spa",
+  "files": ["src/arancibia-root-config.ts"],
+  "include": ["src/**/*"],
+  "exclude": ["src/**/*.test*"]
+}

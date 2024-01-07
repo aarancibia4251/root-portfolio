@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@arancibia/root-config": "http://localhost:9000/index.js",
+    "@arancibia/course": "http://localhost:4200/main.js"
+  }
+}

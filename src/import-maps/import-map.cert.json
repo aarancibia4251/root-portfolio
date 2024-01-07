@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@telefonica/root-config": "https://scvisorwebcertendpointcdn.azureedge.net/index.js",
+    "@telefonica/visor": "https://scvisorwebcertendpointcdn.azureedge.net/tdp-visor/main-es2015.js",
+    "@telefonica/visor-login": "https://scvisorwebcertendpointcdn.azureedge.net/tdp-visor/main.js",
+    "@telefonica/moment": "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js"
+  }
+}
